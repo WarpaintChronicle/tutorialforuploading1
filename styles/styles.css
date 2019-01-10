@@ -1,8 +1,14 @@
 body {
+    background-color:purple;
+  
     text-align: center;
     background-color: #f0e8c5;
   }
   
+   body p{
+       color:yellow;
+}
+
   div {
     margin-top: 15px;
   }
