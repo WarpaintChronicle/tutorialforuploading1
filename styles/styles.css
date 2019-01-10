@@ -1,12 +1,12 @@
-body {
-    background-color:purple;
+  body {
+    background-color:green;
     text-align: center;
     background-color: #f0e8c5;
   }
   
    body p{
        color:yellow;
-}
+   }
 
   div {
     margin-top: 15px;
@@ -20,5 +20,5 @@ body {
   .section-style {
     margin-right: 25px;
     margin-left: 25px;
-    background-color: white;
+    background-color: purple;
   }
